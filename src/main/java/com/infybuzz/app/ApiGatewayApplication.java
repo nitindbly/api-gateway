@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableEurekaClient
-//new comment from main
+//new new from main
 public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
